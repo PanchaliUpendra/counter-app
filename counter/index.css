@@ -11,12 +11,12 @@ body,html{
 h1{
 	font-size: 3rem;
 	color: #e2dbdb;
-	justify-content: center;
+	text-align:center;
 }
 h2{
 	font-size:50px;
 	margin-top:0;
-	margin-bottom: 20px;
+	text-align:center;
 }
 button{
   background-color: brown;
@@ -37,4 +37,7 @@ button:hover{
 	background-color: #4CAF50;
 	color:white;
 	box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+*{
+	text-align:center;
 }
