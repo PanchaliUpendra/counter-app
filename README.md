@@ -1,1 +1,1 @@
-# sample-projects
+# different types of projects 
